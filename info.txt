@@ -1,2 +1,3 @@
 ---------------AKIATVAFKCQND56MMHGW
 ---------------S4mUuusToUboX2zioUDEjgr65ZyiCpjoKLA/7uuc
+--- aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 251266733082.dkr.ecr.us-east-1.amazonaws.com
